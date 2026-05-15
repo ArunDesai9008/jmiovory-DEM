@@ -2,14 +2,8 @@
   Name:               MYMSGF1(ENG)
 
   Messages:
-  - MSGF001:
-      First Level Text:   THIS IS A TEST MESSAGE 1
-
   - MSGF002:
       First Level Text:   This is y 2nd text message
-
-  - MSGF003:
-      First Level Text:   this is my 3rd text message
 
   - MSGF004:
       First Level Text:   This is my 4th text message
